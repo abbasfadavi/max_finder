@@ -1,0 +1,42 @@
+{
+  'Line_107' => {
+    'CodeInstance' => 'max_finder_struct/find_max',
+    'Instance' => 'find_max',
+    'SimulinkInstance' => 'max_finder/find_max'
+  },
+  'Line_132' => {
+    'CodeInstance' => 'max_finder_default_clock_driver/clockdriver',
+    'Instance' => 'clockdriver',
+    'SimulinkInstance' => ''
+  },
+  'Line_164' => {
+    'CodeInstance' => 'max_finder_default_clock_driver',
+    'Instance' => 'max_finder_default_clock_driver',
+    'SimulinkInstance' => ''
+  },
+  'Line_172' => {
+    'CodeInstance' => 'max_finder_struct',
+    'Instance' => 'max_finder_struct',
+    'SimulinkInstance' => 'max_finder'
+  },
+  'Line_30' => {
+    'CodeInstance' => 'max_finder_struct/find_max/delay',
+    'Instance' => 'delay',
+    'SimulinkInstance' => 'max_finder/find_max/Delay'
+  },
+  'Line_45' => {
+    'CodeInstance' => 'max_finder_struct/find_max/register_x0',
+    'Instance' => 'register_x0',
+    'SimulinkInstance' => 'max_finder/find_max/Register'
+  },
+  'Line_58' => {
+    'CodeInstance' => 'max_finder_struct/find_max/register1',
+    'Instance' => 'register1',
+    'SimulinkInstance' => 'max_finder/find_max/Register1'
+  },
+  'Line_71' => {
+    'CodeInstance' => 'max_finder_struct/find_max/relational2',
+    'Instance' => 'relational2',
+    'SimulinkInstance' => 'max_finder/find_max/Relational2'
+  }
+}
